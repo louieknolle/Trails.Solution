@@ -2,8 +2,6 @@
 
 #### By Megan McKissack, Louie Knolle, Ryan Gibson, Patty Rose
 
-![Dev Team](/img/devsPic.jpg)
-
 #### Team developed application utilizing ArcGIS mapping API to create user-generated hiking landmarks and trails and store them in a .NET web API.
 
 ## Technologies Used
